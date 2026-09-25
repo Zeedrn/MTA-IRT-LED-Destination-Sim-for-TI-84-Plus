@@ -1,3 +1,3 @@
-# MTA-IRT-LED-Destination-Simulation-for-TI-84-Plus-TI-84-Plus-Silver-Edition
+# MTA-IRT-LED-Destination-Sim-for-TI-84-Plus
 
 Look at Releases.
