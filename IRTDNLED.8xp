@@ -1,4 +1,4 @@
-## Codes here will not work properly because of unsuported characters, go to Releases.
+## Codes here will not work properly because of unsuported characters are copied directly to here, go to Releases.
 
 Lbl S
 ClrHome
